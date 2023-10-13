@@ -29,7 +29,7 @@ Este projeto foi feito para o aprendizado em C# em meu período de treinamento d
     <td></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/isaaregina/readme/assets/114022518/1576b75f-32fc-4fcf-b334-cd80ca75c2a8 alt="Logo .NET" width="80"></td>
+    <td><img src="https://github.com/isaaregina/readme/assets/114022518/1576b75f-32fc-4fcf-b334-cd80ca75c2a8" alt="Logo .NET" width="80"></td>
     <td>.NET</td>
     <td>4.8</td>
   </tr>
